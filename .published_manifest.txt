@@ -1,0 +1,7 @@
+01_premenne_a_typy_zadanie.ipynb
+02_01_cisla_operacie_zadanie.ipynb
+02_02_cisla_operacie_zadanie.ipynb
+02_03_cisla_operacie_ulohy_zadanie.ipynb
+02_04_cisla_operacie_prakticke_zadanie.ipynb
+03_stringy_a_zoznamy_zadanie.ipynb
+invoices_data.json
